@@ -1,0 +1,46 @@
+
+
+
+                     db    88888 8       db    .d88b. .d88b. 
+                    dPYb     8   8      dPYb   YPwww. YPwww. 
+                   dPwwYb    8   8     dPwwYb      d8     d8 
+                  dP    Yb   8   8888 dP    Yb `Y88P' `Y88P' 
+                                                             
+                      888b. 8888 888b. .d88b. 888b. 88888 
+                      8  .8 8www 8  .8 8P  Y8 8  .8   8   
+                      8wwK' 8    8wwP' 8b  d8 8wwK'   8   
+                      8  Yb 8888 8     `Y88P' 8  Yb   8   
+                                                          
+                  888b. 8       db    8b  8 8b  8 8888 888b. 
+                  8  .8 8      dPYb   8Ybm8 8Ybm8 8www 8  .8 
+                  8wwP' 8     dPwwYb  8   8 8   8    8wwK 
+                  8     8888 dP    Yb 8   8 8   8 8888 8  Yb 
+                                                             
+                           Version: Test Build 0.0.1
+                    ---------------------------------------                    
+
+
+.......................
+: Parameter :   Value :
+:...........:.........:
+: Scale     :    01   :
+: Grid Size :    03   :
+:...........:.........:
+
+Job Started 160628_014525_drmlvl - 30/10/2016 3:46:45 PM
+Reading 1181871 Points
+Reading 1181871 Points - Finished 1 secs
+Gridding Data Into Tiles 1668/1557 - Memory Used: 19 MB
+                                                                                             
+Gridded Data Into 2597076 Tiles - Finished 4 secs - Memory Used: 2 MB
+4 KB Memory Truncated. 
+Permuting Flat Points
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Non-Flat Points Removed From Data: 294
+Permuting Flat Points - Finished 7 secs - Memory Used: 27 MB
+360 B Memory Truncated. 
+Saving permuted flat points to grid.xyz
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Saved permuted flat points - Finished 8 secs - Memory Used: 62 MB
+0 B Memory Truncated. 
+Job Completed - 20 secs - 30/10/2016 3:47:05 PM
